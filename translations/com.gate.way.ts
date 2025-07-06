@@ -16,14 +16,14 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;p&gt;This is GateWay Chain PWA Agent-Client for Aurora Domestic OS. Used for RuStore and REChain.Store.&lt;/p&gt;</source>
+        <source>&lt;p&gt;This is GateWay PWA Agent-Client for Aurora Domestic OS. Used for RuStore and REChain.Store.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>WebViewBrowser</name>
     <message>
-        <source>GateWay Chain</source>
+        <source>GateWay</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

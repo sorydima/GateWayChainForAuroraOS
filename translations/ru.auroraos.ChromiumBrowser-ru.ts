@@ -10,7 +10,7 @@
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="38"/>
-        <source>&lt;p&gt;This is GateWay Chain PWA Agent-Client for Aurora Domestic OS. Used for RuStore and REChain.Store.&lt;/p&gt;</source>
+        <source>&lt;p&gt;This is GateWay PWA Agent-Client for Aurora Domestic OS. Used for RuStore and REChain.Store.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -28,7 +28,7 @@
     <name>WebViewBrowser</name>
     <message>
         <location filename="../qml/WebViewBrowser.qml" line="8"/>
-        <source>GateWay Chain</source>
+        <source>GateWay</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
