@@ -1,14 +1,7 @@
-# 📝 Changelog
-
-All notable changes to this project will be documented here.
+# Changelog
 
 ## [1.0.0] - 2025-07-06
-
-### Added
-- Initial release of GateWay profile template
-- Wiki and documentation
-- Configuration examples
-- Markdown blog support (optional)
-- REChain + Web3 placeholder modules
-
----
+- Initial public release
+- Qt/QML GUI for Aurora OS
+- Integrated with Matrix
+- Peer discovery functional
